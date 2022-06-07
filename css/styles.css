@@ -1,0 +1,71 @@
+#counter_img{
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:auto;
+    height:60%;
+
+}
+/* .counter_section .col-md-3 .center{
+    
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color:orange;
+
+} */
+.counter{
+    color:orange;
+    font-size:45px ;
+    font-weight: bold;
+    text-align: center;
+}
+.counter_content{
+    color:white;
+    font-weight: bold;
+    font-size:20px ;
+    text-align: center;
+}
+#box_2{
+    padding-left:400px;
+    padding-right:400px ;
+    padding-bottom: 70px;
+    justify-content: center;
+    font-size: 20px;
+}
+.btn .btn-them {
+width:50%;
+height:50%;
+border: 1px solid black;
+margin: 8px 0;
+box-sizing: border-box;
+}
+.form-control{
+    width:80%;
+height:50%;
+border: 1px solid black;
+margin: 8px 0
+box-sizing: border-box;
+}
+.main_section {
+    background-image: url(images/learning_img2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.5;
+     background-attachment: scroll;
+     text-align: center;
+     position: relative;
+    background-color: #fcba03; 
+
+    /* background-image: linear-gradient(to right,#fcba03,#fcba03), url('images/learning_img2');
+    background-size: cover, contain;
+    background-position: center, right bottom;
+    background-repeat: no-repeat, no-repeat; */
+
+
+}
+/* .main_section::before{
+     background-color: #fcba03;
+     content: '';
+     position: absolute;
+} */
